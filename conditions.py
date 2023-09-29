@@ -30,6 +30,7 @@ for i in range(gg):
   gg +=1
 
 print('The program has ended..., please run again')
+print(' ')
 for i in range(1):
     x = input('do u wanna run the program again?: ')
     if x == 'yes' or 'yes':
